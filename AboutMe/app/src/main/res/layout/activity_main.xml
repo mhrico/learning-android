@@ -11,5 +11,7 @@
         android:id="@+id/textView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Rico" />
+        android:text="@string/name"
+        android:textAlignment="center"
+        style="@style/NameStyle" />
 </LinearLayout>
